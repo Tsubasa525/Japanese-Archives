@@ -1,12 +1,54 @@
 @charset "utf-8";
 /*日本档案事业发展史开始*/
 /*content1开始*/
-.content1{margin:20px auto;width: 1100px;height: 2800px;}
+.content1{margin:20px auto;width: 1100px;height:699px;}
+mulu{float: left; width: 22%;}
+.content1 ul{margin:20px 0px 0px 20px;padding: 0 20px;background-color: aliceblue;width: 150px;height: 590px;}
+.content1 ul li{margin-top: 5px;margin-left: 13px;padding: 5px;}
+.content1 ul li a{font-size: 20px;color: #1B05FF;font-weight: bold;cursor:pointer;text-decoration: none;}
+.content1 ul li a:hover{color:#FC0004;text-decoration: underline;}
+section4{float: left;width: 99%;margin-left: 6px;}
+.content1 h1{text-align: center;font-size: 35px;margin-top: 40px;}
+.b1{text-indent: 2em;margin-top: -1em;margin-bottom: -5px;}
+.content1 h2{margin-left: 20px;}
+.content1 h3{margin-left: 20px;margin-top: -10px;margin-bottom: -1em;font-size: 23px;}
+.b2{margin-left: 30px;text-indent: 2em;font-size: 17px;}
+.meiji ol {margin-top: -10px;}
+.meiji ol li{margin-left: 30px;font-size: 17px;list-style:decimal;}
+.b3{margin-left: 30px;text-indent: 2em;font-size: 17px;margin-top: -1em;}
+.naikaku ol {margin-top: -10px;}
+.naikaku ol li{margin-left: 30px;font-size: 17px;list-style:decimal;}
+.b4{margin-left: 30px;text-indent: 2em;font-size: 17px;margin-top: -10px;}
+.pic13{margin-top: -1em;text-align: center;margin-bottom: 1em;}
+.pic14{margin-top: -1em;text-align: center;}
+.pic15{margin-top: -1em;text-align: center;}
+.jieshi4 ol li{margin-left: 30px;font-size: 17px;list-style:decimal;}
+
+html,body {
+  height: 100%;
+}
+.split4 {
+  position: absolute;
+  width: 90%;
+  height: 100%;
+}
+.left-box4 {
+  left: 30;
+}
+.right-box4 {width: 70%;
+  right: 60px;
+  overflow-y: scroll;
+}
 /*content1结束*/
 /*back开始*/
 div.content1{background-color:antiquewhite;
-	        background-image: url("./c-back2.webp");
+	        background-image: url("../img/c-back2.webp");
 	        background-size: cover;
+	        background-attachment: fixed;
+            background-position: center center;
+            border: 10px solid #81A0A9;}
+.content1 ul{background-image: url();
+             background-size: cover;
 	        background-attachment: fixed;
             background-position: center center;
             border: 10px solid #81A0A9;}
