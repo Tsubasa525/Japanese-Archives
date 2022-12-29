@@ -25,19 +25,22 @@ section4{float: left;width: 99%;margin-left: 6px;overflow: hidden;}
 .jieshi4 ol li{margin-left: 30px;font-size: 17px;list-style:decimal;}
 
 html,body {
-  height: 100%;
+  height: 910px;
 }
 .split4 {
   position: absolute;
-  width: 90%;
-  height: 100%;
+  width: 990px;
+  height: 700px;
 }
-.left-box4 {
-  left: 30;
+.left-box4 {width: 330px;
+	 height: 700px;
+  
 }
-.right-box4 {width: 70%;
-  right: 60px;
+.right-box4 {width: 770px;
+  left: 300px;
   overflow-y: scroll;
+	position: absolute;
+	 height: 700px;
 }
 /*content1结束*/
 /*back开始*/
