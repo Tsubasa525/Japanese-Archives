@@ -61,27 +61,17 @@ div.content1{background-color:antiquewhite;
 /*日本国立公文书馆介绍开始*/
 /*content3开始*/
 .content3{margin:20px auto;width: 1100px;height: 700px;}
-.d1{margin-bottom: -0.09px;}
-mulu{float: left; width: 22%;}
-.content3 ul{margin:20px 0px 0px 20px;padding: 0 20px;background-color: aliceblue;width: 150px;height: 400px;}
-.content3 ul li{margin-top: 5px;margin-left: 35px;list-style-type: disc;padding: 5px;}
+mulu{float: left; width: 330px;}
+.content3 ul{background-color: aliceblue;height: 450px;width: 190px;margin-left: 20px;margin-top: 20px;}
+.content3 ul li{margin-top: 30px;margin-left: 55px;list-style: disc;}
 .content3 ul li a{font-size: 20px;color: #1B05FF;font-weight: bold;cursor:pointer;text-decoration: none;}
 .content3 ul li a:hover{color:#FC0004;text-decoration: underline;}
-.content3 con{float: left;width: 500px;clear: both;}
-section{float: left;width: 99%;margin-left: 6px;}
+section{float:right;width: 800px;margin-right: 20px;}
 .content3 h1{text-align: center;font-size: 35px;margin-top: 40px;}
 .content3 h2{margin-left: 20px;margin-bottom: -1em;font-size: 23px;}
 .d2{margin-left: 30px;text-indent: 2em;font-size: 17px;}
-pic1 img{float: left;width:45%;margin-top: -1em;margin-left: 40px;}
-pic2 img{float:left;width: 45%;margin-top: -1em;margin-left: 30px;}
-label{float: left;width: 100%;}
-.d3{float: left;margin-left:170px;}
-.d4{float: left;margin-left:240px;}
-pic3 img{float: left;width:45%;margin-top: -1em;margin-left: 40px;}
-pic4 img{float:left;width: 45%;margin-top: -1em;margin-left: 30px;}
-label2{float: left;width: 100%;}
-.d5{float: left;margin-left:165px;}
-.d6{float: left;margin-left:235px;}
+.pic1{margin-top: -1em;text-align: center;margin-bottom:-1em;margin-left: 30px;}
+.pic3{margin-top: -1em;text-align: center;margin-bottom:-1em;margin-left: 30px;}
 .d7{margin-left: 30px;font-size: 17px;margin-bottom: -1em;}
 .d8{margin-left: 30px;text-indent: 2em;font-size: 17px;margin-top: -1em;}
 .d9{margin-left: 30px;font-size: 17px;margin-top: -1em;margin-bottom: -1em;}
@@ -89,24 +79,25 @@ label2{float: left;width: 100%;}
 .yewu ol li{margin-left: 30px;font-size: 17px;list-style:decimal;}
 .yewu2 ol li{margin-left: 30px;font-size: 17px;list-style:decimal;}
 .suozaidi ol li{margin-left: 30px;font-size: 17px;list-style:disc;}
-pic5 img{float: left;width:45%;margin-top: -1em;margin-left: 40px;}
-pic6 img{float:left;width: 45%;margin-top: -1em;margin-left: 30px;}
+.pic5{margin-top: -1em;text-align: center;margin-bottom:-1em;margin-left: 30px;}
 .jieshi ol li{margin-left: 30px;font-size: 17px;list-style:decimal;}
 .d10{text-indent: 2em;margin-top: -1em;margin-bottom: -5px;}
+
 html,body {
-  height: 100%;
+  height: 700px;
 }
 .split1 {
   position: absolute;
-  width: 90%;
-  height: 100%;
+  width: 1100px;
+  height: 700px;
 }
-.left-box1 {
-  left: 30;
+.left-box1 {width: 330px;
+	 height: 700px;
+  
 }
-.right-box1 {width: 70%;
-  right: 60px;
+.right-box1 {width: 1090px;
   overflow-y: scroll;
+	 height: 700px;
 }
 /*content3结束*/
 /*back开始*/
