@@ -7,7 +7,7 @@ mulu{float: left; width: 22%;}
 .content1 ul li{margin-top: 5px;margin-left: 13px;padding: 5px;}
 .content1 ul li a{font-size: 20px;color: #1B05FF;font-weight: bold;cursor:pointer;text-decoration: none;}
 .content1 ul li a:hover{color:#FC0004;text-decoration: underline;}
-section4{float: left;width: 99%;margin-left: 6px;}
+section4{float: left;width: 99%;margin-left: 6px;overflow: hidden;}
 .content1 h1{text-align: center;font-size: 35px;margin-top: 40px;}
 .b1{text-indent: 2em;margin-top: -1em;margin-bottom: -5px;}
 .content1 h2{margin-left: 20px;}
