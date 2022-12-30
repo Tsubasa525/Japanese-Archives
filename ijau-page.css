@@ -50,7 +50,7 @@ html,body {
 /*content1结束*/
 /*back开始*/
 div.content1{background-color:antiquewhite;
-	        background-image: url("../img/c-back2.webp");
+	        background-image: url("./c-back2.webp");
 	        background-size: cover;
 	        background-attachment: fixed;
             background-position: center center;
@@ -112,7 +112,7 @@ html,body {
 /*content3结束*/
 /*back开始*/
 div.content3{background-color:antiquewhite;
-	        background-image: url("../img/c-back2.webp");
+	        background-image: url("./c-back2.webp");
 	        background-size: cover;
 	        background-attachment: fixed;
             background-position: center center;
@@ -177,7 +177,7 @@ html,body {
 /*content4结束*/
 /*back开始*/
 div.content4{background-color:antiquewhite;
-	        background-image: url("../img/c-back2.webp");
+	        background-image: url("./c-back2.webp");
 	        background-size: cover;
 	        background-attachment: fixed;
             background-position: center center;
@@ -242,7 +242,7 @@ html,body {
 /*content5结束*/
 /*back开始*/
 div.content5{background-color:antiquewhite;
-	        background-image: url("../img/c-back2.webp");
+	        background-image: url("./c-back2.webp");
 	        background-size: cover;
 	        background-attachment: fixed;
             background-position: center center;
@@ -316,7 +316,7 @@ html,body {
 /*content6结束*/
 /*back开始*/
 div.content6{background-color:antiquewhite;
-	        background-image: url("../img/c-back2.webp");
+	        background-image: url("./c-back2.webp");
 	        background-size: cover;
 	        background-attachment: fixed;
             background-position: center center;
@@ -332,7 +332,7 @@ div.content6{background-color:antiquewhite;
 /*content7结束*/
 /*back开始*/
 div.content7{background-color:antiquewhite;
-	        background-image: url("../img/c-back2.webp");
+	        background-image: url("./c-back2.webp");
 	        background-size: cover;
 	        background-attachment: fixed;
             background-position: center center;
