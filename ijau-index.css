@@ -17,18 +17,18 @@ nav,nav_con,ul,li,a{margin: 0;padding: 0;border: 0;list-style: none;}
 /*nav结束*/
 /*back开始*/
 body{background-color:#1B4A70;
-     background-image: url("../img/b-back.webp");
+     background-image: url("./b-back.webp");
      background-size: cover;
      background-attachment: fixed;
      background-position: center center;}
 div.content{background-color:antiquewhite;
-	        background-image: url("../img/c-back1.webp");
+	        background-image: url("./c-back1.webp");
 	        background-size: cover;
 	        background-attachment: fixed;
             background-position: center center;
             border: 10px solid #81A0A9;}
 div.footer{
-	        background-image: url("../img/f-back.webp");
+	        background-image: url("./f-back.webp");
 	        background-size: cover;
 	        background-attachment: fixed;
             background-position: center center;
