@@ -11,7 +11,7 @@
 /*nav开始*/
 nav,nav_con,ul,li,a{margin: 0;padding: 0;border: 0;list-style: none;}
 .spnav{background-color:#81A0A9;
-width:400px;margin: 0px auto 10px auto;}
+width:400px;margin: 0px auto 10px auto;text-align: center;}
 	.spnav summary{text-align: center;color:#FFFFFF;font-weight: bold;font-size: 25px}
 .spnav li{margin-bottom:5px;text-align: center;font-weight: bold;}
 .spnav li a{color:#FFFFFF;cursor:pointer;text-decoration: none;}
@@ -38,14 +38,14 @@ div.footer{
             }
 /*back结束*/
 /*content开始*/
-.content{width: 380px;margin: 0px auto 10px auto;}
+.content{width: 380px;margin: 0px auto 10px auto;text-align: center;}
 	.pic1{margin: 5px 5px 10px 5px;}
 .content h2{text-align: center;margin-top: -5px;}
 .a1{margin:-10px 5px 0px 5px;font-size: 18px;text-indent: 2em;}
 .a2{margin:0px 5px 5px 5px;font-size: 18px;text-indent: 2em;}
 /*content结束*/
 /*footer开始*/
-.footer{width: 400px;margin: 0px auto 0px auto;background: #ADADAD;}
+.footer{width: 400px;margin: 0px auto 0px auto;background: #ADADAD;text-align: center;}
 	.pic16{text-align: center;}
 	.pic17{text-align: center;}
 	.pic18{text-align: center;margin-bottom: -5px}
