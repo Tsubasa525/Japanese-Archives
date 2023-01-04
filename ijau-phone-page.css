@@ -69,7 +69,7 @@ ul.ddmenu li a:hover{color:#FC0004;text-decoration: underline;}
 /*content1结束*/
 /*back开始*/
 div.content1{background-color:antiquewhite;
-	        background-image: url("../img/c-back2.webp");
+	        background-image: url("./c-back2.webp");
 	        background-size: cover;
 	        background-attachment: fixed;
             background-position: center center;
@@ -152,7 +152,7 @@ ul.ddmenu1 li a:hover{color:#FC0004;text-decoration: underline;}
 /*content3结束*/
 /*back开始*/
 div.content3{background-color:antiquewhite;
-	        background-image: url("../img/c-back2.webp");
+	        background-image: url("./c-back2.webp");
 	        background-size: cover;
 	        background-attachment: fixed;
             background-position: center center;
@@ -251,7 +251,7 @@ ul.ddmenu2 li a:hover{color:#FC0004;text-decoration: underline;}
 /*content4结束*/
 /*back开始*/
 div.content4{background-color:antiquewhite;
-	        background-image: url("../img/c-back2.webp");
+	        background-image: url("./c-back2.webp");
 	        background-size: cover;
 	        background-attachment: fixed;
             background-position: center center;
@@ -339,7 +339,7 @@ ul.ddmenu3 li a:hover{color:#FC0004;text-decoration: underline;}
 /*content5结束*/
 /*back开始*/
 div.content5{background-color:antiquewhite;
-	        background-image: url("../img/c-back2.webp");
+	        background-image: url("./c-back2.webp");
 	        background-size: cover;
 	        background-attachment: fixed;
             background-position: center center;
@@ -423,7 +423,7 @@ ul.ddmenu4 li a:hover{color:#FC0004;text-decoration: underline;}
 /*content6结束*/
 /*back开始*/
 div.content6{background-color:antiquewhite;
-	        background-image: url("../img/c-back2.webp");
+	        background-image: url("./c-back2.webp");
 	        background-size: cover;
 	        background-attachment: fixed;
             background-position: center center;
@@ -438,7 +438,7 @@ ul.ddmenu4{background-color:aliceblue;border: 5px solid #81A0A9;}
 /*content7结束*/
 /*back开始*/
 div.content7{background-color:antiquewhite;
-	        background-image: url("../img/c-back2.webp");
+	        background-image: url("./c-back2.webp");
 	        background-size: cover;
 	        background-attachment: fixed;
             background-position: center center;
