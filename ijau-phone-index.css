@@ -38,6 +38,7 @@ div.footer{
             }
 /*back结束*/
 /*content开始*/
+.contianer{width:410px;}
 .content{width: 380px;margin: 0px 5px 10px 5px;text-align: center;}
 	.pic1{margin: 5px 5px 10px 5px;}
 .content h2{text-align: center;margin-top: -5px;}
