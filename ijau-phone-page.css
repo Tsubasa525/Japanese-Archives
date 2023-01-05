@@ -6,7 +6,7 @@
 	/*日本档案事业发展史开始*/
 /*content1开始*/
 .content1{width: 380px;margin: 0px auto 10px auto;height: 700px;}	
-.spmulu{width:360px;margin: 5px 5px 5px 5px;}
+.spmulu{width:360px;margin: 5px 5px 5px 5px;z-index: 10;}
 .spmulu summary{text-align: center;font-weight: bold;font-size: 25px;}
 .spmulu li{margin-bottom:5px;margin-left: 40px;margin-right: 25px;}
 .spmulu li a{cursor:pointer;text-decoration: none;}
