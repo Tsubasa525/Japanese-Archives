@@ -1,0 +1,53 @@
+@charset "utf-8";
+@media screen and (min-width: 600px) {
+	.for-sp { display:none; }
+  .for-pc { display:block; }
+/*logo开始*/
+.top{height:100px;width:1182px;}
+.logo{width: 450px; height: 90px;margin-top: 5px;margin-left:15px ;}
+/*logo结束*/
+/*nav开始*/
+.nav{margin-top:-10px;width:1182px;height: 50px;line-height: 40px;background:#81A0A9; vertical-align: middle;}
+.nav ul {margin-left:-7px;}
+.nav ul li{margin: 0px 7px;float:left;list-style: none;}
+.nav ul li a{color:#FFFFFF;font-size: 15px;font-weight: bold;padding: 5px 10px;float: left;cursor:pointer;text-decoration: none;}
+.nav ul li:hover a{background: #3275E9;height: 40px;margin-top: -3px;float: left;}
+.nav ul li a:hover{color:#FC0004;text-decoration: underline;}
+/*nav结束*/
+/*back开始*/
+body{background-color:#1B4A70;
+     background-image: url("../img/b-back.webp");
+     background-size: cover;
+     background-attachment: fixed;
+     background-position: center center;}
+div.content{background-color:antiquewhite;
+	        background-image: url("../img/c-back1.webp");
+	        background-size: cover;
+	        background-attachment: fixed;
+            background-position: center center;
+            border: 10px solid #81A0A9;}
+div.footer{
+	        background-image: url("../img/f-back.webp");
+	        background-size: cover;
+	        background-attachment: fixed;
+            background-position: center center;
+            }
+/*back结束*/
+/*content开始*/
+.content{width: 1100px;height: 450px;margin:20px 31px;}
+.content dt{float: left;margin:10px 25px}
+.content dd{float:left;width: 500px;margin-top: 10px;}
+.content h2{text-align: center;margin-right: 45px;}
+.a1{margin-right: 50px;font-size: 18px;text-indent: 2em;}
+.a2{margin-top: -1em;margin-right: 50px;font-size: 18px;text-indent: 2em;}
+/*content结束*/
+/*footer开始*/
+.footer{width:1182px;background: #ADADAD;height: 195px;}
+.footer_con{height: 65px;}
+.footer_con ul{list-style:none;height: 65px;}
+.footer_con ul li{float:left;margin:15px 10px 5px;}
+.a3{line-height: 49px;color: #1D00C8;font-size: 20px;font-weight: bold;margin-left: 11px;}
+.end{text-align: center;font-size: 14px;}
+.topbtn{text-align: center;margin-top: -4px}
+/*footer结束*/
+}
