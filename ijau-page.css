@@ -66,6 +66,7 @@
 	height: 546.2px;
 		-ms-overflow-style: none;
 	scrollbar-width: none;
+	z-index:9;
 	}
 .xia-area::-webkit-scrollbar {  
   display: none; 
