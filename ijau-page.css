@@ -59,7 +59,7 @@
 .shang-area{grid-row: 1;
   grid-column: 1;
 	height: 113.9px;
-	}
+	z-index:10;}
 .xia-area{grid-row: 2;
   grid-column: 1;
 	overflow-y: scroll;
