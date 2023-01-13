@@ -1,0 +1,569 @@
+@charset "utf-8";
+@media screen and (min-width: 600px) {
+	.for-sp { display:none; }
+  .for-pc { display:block; }
+/*日本档案事业发展史开始*/
+/*content1开始*/
+.content1{margin:20px 30px;width: 1100px;height:700px;}		
+.mulue{width: 250px;}
+.content1 ul{height: 570px;width: 150px;margin-left: 20px;margin-top: 20px;}
+.content1 ul li{margin-top: 25px;margin-left: -5px;margin-right: 5px;list-style: none;}
+.content1 ul li a{font-size: 20px;color: #1B05FF;font-weight: bold;cursor:pointer;text-decoration: none;}
+.content1 ul li a:hover{color:#FC0004;text-decoration: underline;}
+.section4{float:left;width: 830px;height: 700px;}
+.content1 h1{text-align: center;font-size: 35px;margin-top: 40px;}
+.b1{text-indent: 2em;margin-top: -1em;margin-bottom: -5px;}
+.content1 h2{margin-left: 20px;margin-top: 1em;}
+.b2{margin-left: 30px;text-indent: 2em;font-size: 17px;}
+.meiji ol li{margin-left: 30px;font-size: 17px;list-style:decimal;}
+.b3{margin-left: 30px;text-indent: 2em;font-size: 17px;margin-top: -1em;}
+.b3 a{color: #1B05FF;cursor:pointer;text-decoration: none;}
+.b3 a:hover{color:#FC0004;text-decoration: underline;}
+.naikaku ol li{margin-left: 30px;font-size: 17px;list-style:decimal;}
+.b4{margin-left: 30px;text-indent: 2em;font-size: 17px;margin-top: -1em;margin-bottom: -1em;}
+.b5{margin-left: 30px;text-indent: 2em;font-size: 17px;margin-bottom: -1em;}
+.pic13{margin-top: -1em;text-align: center;margin-left: 30px;}
+.pic14{margin-top: -1em;text-align: center;margin-left: 30px;}
+.pic15{margin-top: -1em;text-align: center;margin-left: 30px;}
+.jieshi4 ol li{margin-left: 30px;font-size: 17px;list-style:decimal;}
+
+.spminzhi1{font-weight: bold;font-size: 23px;margin-left: 20px;cursor:pointer;width: 15em;margin-top: -16px;}
+.spminzhi2{font-weight: bold;font-size: 23px;margin-left: 20px;cursor:pointer;width:15em;}
+.xiandai{font-weight: bold;font-size: 23px;margin-left: 20px;margin-top: 1em;cursor:pointer;width:22em;}
+.ciyujieshi{font-weight: bold;font-size: 23px;margin-left: 20px;cursor:pointer;width:7em;margin-top: 1em;}	
+	.aa1{margin-top: -20px;}	
+	.aa2{margin-top: -20px;}
+	.aa3{margin-top: -10px;}
+	.aa4{margin-top: -20px;}
+	
+.grid-area1 {
+  display: grid;
+  grid-template-rows: 700px;  
+  grid-template-columns: 250px 850px;  
+}
+
+.left-area {
+  grid-row: 1;
+  grid-column: 1;
+	height:700px;
+}
+
+.right-area {
+  grid-row: 1;
+  grid-column: 2;
+	height:700px;
+}
+.grid-areaA{display: grid;                
+  grid-template-rows: 113.9px 546.2px;  
+  grid-template-columns: 850px;  }
+.shang-area{grid-row: 1;
+  grid-column: 1;
+	height: 113.9px;
+	}
+.xia-area{grid-row: 2;
+  grid-column: 1;
+	overflow-y: scroll;
+	height: 546.2px;
+		-ms-overflow-style: none;
+	scrollbar-width: none;
+	}
+.xia-area::-webkit-scrollbar {  
+  display: none; 
+}		
+	
+/*content1结束*/
+/*back开始*/
+div.content1{background-color:antiquewhite;
+	        background-image: url("../img/c-back2.webp");
+	        background-size: cover;
+	        background-attachment: fixed;
+            background-position: center center;
+            border: 10px solid #81A0A9;}
+.content1 ul{background-color: aliceblue;
+            border: 10px solid #81A0A9;}
+/*back结束*/
+/*日本档案事业发展史结束*/
+
+/*日本国立公文书馆介绍开始*/
+/*content3开始*/
+.content3{margin:20px 30px;width: 1100px;height: 700px;}
+.mulua{width: 250px;}
+.content3 ul{height: 450px;width: 150px;margin-left: 20px;margin-top: 20px;}
+.content3 ul li{margin-top: 30px;margin-left: 22px;list-style: disc;}
+.content3 ul li a{font-size: 20px;color: #1B05FF;font-weight: bold;cursor:pointer;text-decoration: none;}
+.content3 ul li a:hover{color:#FC0004;text-decoration: underline;}
+.section{width: 830px;height: 700px;}
+.content3 h1{text-align: center;font-size: 35px;margin-top: 40px;}
+.d2{margin-left: 30px;text-indent: 2em;font-size: 17px;}
+.d2 a{cursor:pointer;text-decoration: none;}
+.d2 a:hover{color:#FC0004;text-decoration: underline;}
+.pic1{margin-top: -1em;text-align: center;margin-left: 30px;margin-bottom: -1em;}
+.pic3{margin-top: -1em;text-align: center;margin-left: 30px;}
+.d7{margin-left: 30px;font-size: 17px;margin-bottom: -1em;}
+.d8{margin-left: 30px;text-indent: 2em;font-size: 17px;margin-top: -1em;}
+.d8 a{cursor:pointer;text-decoration: none;}
+.d8 a:hover{color:#FC0004;text-decoration: underline;}
+.d9{margin-left: 30px;font-size: 17px;margin-top: -1em;margin-bottom: -1em;}
+.ziliao ol li{margin-left: 30px;font-size: 17px;list-style:decimal;}
+.yewu ol li{margin-left: 30px;font-size: 17px;list-style:decimal;}
+.yewu2 ol li{margin-left: 30px;font-size: 17px;list-style:decimal;}
+.yewu ol li a{cursor:pointer;text-decoration: none;}
+.yewu ol li a:hover{color:#FC0004;text-decoration: underline;}
+.suozaidi ol li{margin-left: 30px;font-size: 17px;list-style:disc;}
+.pic5{margin-top: -1em;text-align: center;margin-left: 30px;}
+.jieshi ol li{margin-left: 30px;font-size: 17px;list-style:decimal;}
+.d10{text-indent: 2em;margin-top: -1em;margin-bottom: -5px;}
+
+.gaiyao{margin-left: 20px;font-size: 23px;margin-top: 1em;font-weight: bold;cursor:pointer;width:5em;}
+.yange{margin-left: 20px;font-size: 23px;margin-top: 1em;font-weight: bold;cursor:pointer;width:5em;}
+.shoucang{margin-left: 20px;font-size: 23px;margin-top: 1em;font-weight: bold;cursor:pointer;width:7em;}	
+.yewuneirong{margin-left: 20px;font-size: 23px;margin-top: 1em;font-weight: bold;cursor:pointer;width:7em;}	
+.didian{margin-left: 20px;font-size: 23px;margin-top: 1em;font-weight: bold;cursor:pointer;width:6em;}
+.ciyujieshi1{margin-left: 20px;font-size: 23px;margin-top: 1em;font-weight: bold;cursor:pointer;width:7em;}
+	.bb1{margin-top: -20px;}
+	.bb2{margin-top: -20px;}
+	.bb3{margin-top: -20px;}
+	.bb4{margin-top: -20px;}
+	.bb5{margin-top: -20px;}
+	.bb6{margin-top: -20px;}
+	
+.grid-area2 {
+  display: grid;               
+  grid-template-rows: 700px;  
+  grid-template-columns: 250px 850px;  
+}
+
+.left-area2 {
+  grid-row: 1;
+  grid-column: 1;
+	height:700px;
+}
+
+.right-area2 {
+  grid-row: 1;
+  grid-column: 2;
+	height: 700px;
+}
+.grid-areaB{display: grid;                
+  grid-template-rows: 113.9px 546.2px;  
+  grid-template-columns:850px;  }	
+.shang-area1{grid-row: 1;
+  grid-column: 1;
+	height: 113.9px;
+	
+	}
+.xia-area1{grid-row: 2;
+  grid-column: 1;
+	height: 546.2px;
+	overflow-y: scroll;
+	-ms-overflow-style: none;
+	scrollbar-width: none;}
+.xia-area1::-webkit-scrollbar {  
+  display: none; 
+}		
+/*content3结束*/
+/*back开始*/
+div.content3{background-color:antiquewhite;
+	        background-image: url("../img/c-back2.webp");
+	        background-size: cover;
+	        background-attachment: fixed;
+            background-position: center center;
+            border: 10px solid #81A0A9;}
+.content3 ul{background-color: aliceblue;
+            border: 10px solid #81A0A9;}
+/*back结束*/
+/*日本国立公文书馆介绍结束*/
+
+/*日本国立公文书馆工作案例开始*/
+/*content4开始*/
+.content4{margin:20px 30px;width: 1100px;height: 1110px;}
+.mulub{width: 250px;}
+.content4 ul{height: 1050px;width: 150px;margin-left: 20px;margin-top: 20px;}
+.content4 ul li{margin-top: 17px;margin-left: -5px;margin-right: 5px;list-style: none;}
+.content4 ul li a{font-size: 18px;color: #1B05FF;font-weight: bold;text-decoration: none;cursor:pointer;}
+.content4 ul li a:hover{color:#FC0004;text-decoration: underline;}
+.section2{width: 830px;height: 1110px;}
+.content4 h1{text-align: center;font-size: 35px;margin-top: 40px;}
+.content4 h2{margin-left: 20px;margin-top: 1em}
+.content4 h2 a{color: #1B05FF;cursor:pointer;text-decoration: none;}
+.content4 h2 a:hover{color:#FC0004;text-decoration: underline;}
+.e1{text-indent: 2em;margin-top: -1em;margin-bottom: -5px;}
+.e2{margin-left: 30px;text-indent: 2em;font-size: 17px;}
+.e2 a{color: #1B05FF;cursor:pointer;text-decoration: none;}
+.e2 a:hover{color:#FC0004;text-decoration: underline;}
+.work ol li{margin-left: 30px;font-size: 17px;list-style:decimal;}
+.content4 h3{margin-left: 20px;margin-top: -10px;margin-bottom: -1em;font-size: 23px;}
+.media ol li{margin-left: 30px;font-size: 17px;list-style:decimal;}
+.pic10{margin-top: -1em;text-align: center;margin-left: 30px;}
+.e3{margin-left: 30px;text-indent: 2em;font-size: 17px;margin-top: -1em;}
+.e3 a{color: #1B05FF;cursor:pointer;text-decoration: none;}
+.e3 a:hover{color:#FC0004;text-decoration: underline;}
+.process ol li{margin-left: 30px;font-size: 17px;list-style:decimal;}
+.e4{margin-left: 30px;font-size: 17px;margin-top: -1em;}
+.process1 ol li{margin-left: 30px;font-size: 17px;list-style:decimal;}
+.process1 ol{margin-top: -1em;}
+.format ol li{margin-left: 30px;font-size: 17px;list-style:decimal;}
+.pic11{margin-top: -1em;text-align: center;margin-left: 30px;}
+.meta ol li{margin-left: 30px;font-size: 17px;list-style:decimal;}
+.pic12{margin-top: -1em;text-align: center;margin-bottom:-1em;margin-left: 30px;}
+.jieshi3 ol li{margin-left: 30px;font-size: 17px;list-style:decimal;}
+.sumgz2 a{color: #1B05FF;cursor:pointer;text-decoration: none;}
+.sumgz2 a:hover{color:#FC0004;text-decoration: underline;}
+	
+.sumgz1{margin-left: 20px;font-size: 23px;font-weight: bold;margin-top: 1em;cursor:pointer;width:13em;}
+.sumgz2{margin-left: 20px;font-size: 23px;font-weight: bold;cursor:pointer;width:21em;margin-top: 1em;}	
+.sumgz3{margin-left: 20px;font-size: 23px;font-weight: bold;cursor:pointer;width:17em;margin-top: -16px;}
+.sumgz4{margin-left: 20px;font-size: 23px;font-weight: bold;cursor:pointer;width:9em;}	
+.sumgz5{margin-left: 20px;font-size: 23px;font-weight: bold;cursor:pointer;width:18em;}
+.sumgz6{margin-left: 20px;font-size: 23px;font-weight: bold;cursor:pointer;width:15em;}	
+.sumgz7{margin-left: 20px;font-size: 23px;font-weight: bold;cursor:pointer;width:15em;}	
+.sumgz8{margin-left: 20px;font-size: 23px;font-weight: bold;cursor:pointer;width:8em;}
+.sumgz9{margin-left: 20px;font-size: 23px;font-weight: bold;margin-top: -16px;cursor:pointer;width:17em;}
+.sumgz10{margin-left: 20px;font-size: 23px;font-weight: bold;cursor:pointer;width:13em;}
+.sumgz11{margin-left: 20px;font-size: 23px;font-weight: bold;cursor:pointer;width:20em;}
+.sumgz12{margin-left: 20px;font-size: 23px;font-weight: bold;margin-top: 1em;cursor:pointer;width:7em;}
+	.cc1{margin-top: -10px;}
+	.cc2{margin-top: -10px;}
+	.cc3{margin-top: -20px;margin-bottom: -17px;}
+	.cc4{margin-top: -20px;}
+	.cc5{margin-top: -20px;margin-bottom: -17px;}
+	.cc6{margin-top: -20px;margin-bottom: -17px;}
+	.cc7{margin-top: -20px;margin-bottom: -17px;}
+	.cc8{margin-top: -20px;}
+	.cc9{margin-top: -20px;margin-bottom: -17px;}
+	.cc10{margin-top: -20px;}
+	.cc11{margin-top: -20px;}
+	.cc12{margin-top: -20px;}
+	
+.grid-area3 {
+  display: grid;               
+  grid-template-rows: 1110px;  
+  grid-template-columns: 250px 850px;  
+}
+
+.left-area3 {
+  grid-row: 1;
+  grid-column: 1;
+	height:1110px;
+}
+
+.right-area3 {
+  grid-row: 1;
+  grid-column: 2;
+	height: 1110px;
+}
+.grid-areaC{display: grid;             
+  grid-template-rows: 113.9px 956.4px;  
+  grid-template-columns:850px;  }	
+.shang-area2{grid-row: 1;
+  grid-column: 1;
+	height: 113.9px;
+	}
+.xia-area2{grid-row: 2;
+  grid-column: 1;
+	height: 956.4px;
+	overflow-y: scroll;
+	-ms-overflow-style: none;
+	scrollbar-width: none;
+	}
+.xia-area2::-webkit-scrollbar {  
+  display: none; 
+}		
+/*content4结束*/
+/*back开始*/
+div.content4{background-color:antiquewhite;
+	        background-image: url("../img/c-back2.webp");
+	        background-size: cover;
+	        background-attachment: fixed;
+            background-position: center center;
+            border: 10px solid #81A0A9;}
+.content4 ul{background-color: aliceblue;
+            border: 10px solid #81A0A9;}
+/*back结束*/
+/*日本国立公文书馆工作案例结束*/
+
+/*日本档案事业相关法规介绍开始*/
+/*content5开始*/
+.content5{margin:20px 30px;width: 1100px;height: 810px;}
+.muluc{width: 250px;}
+.content5 ul{height: 750px;width: 150px;margin-left: 20px;margin-top: 20px;}
+.content5 ul li{margin-top: 20px;margin-left: 6px;list-style: none}
+.content5 ul li a{font-size: 20px;color: #1B05FF;font-weight: bold;cursor:pointer;text-decoration: none;}
+.content5 ul li a:hover{color:#FC0004;text-decoration: underline;}
+.section1{width: 830px;height: 810px;}
+.content5 h1{text-align: center;font-size: 35px;margin-top: 40px;}
+.content5 h2{margin-left: 20px;margin-top: 1em;}
+.f2{text-indent: 2em;margin-top: -1em;margin-bottom: -5px;}
+.content5 h3{margin-left: 20px;margin-top: -10px;margin-bottom: -1em;font-size: 23px;}
+.f3{margin-left: 30px;text-indent: 2em;font-size: 17px;}
+.f4{margin-left: 30px;text-indent: 2em;font-size: 17px;margin-top:-1em;}
+.f4 a{color: #1B05FF;cursor:pointer;text-decoration: none;}
+.f4 a:hover{color:#FC0004;text-decoration: underline;}
+.f5{margin-left: 30px;font-size: 17px;}
+.f6{margin-left: 30px;font-size: 17px;margin-top:-1em;}
+.goucheng ol{margin-top:-1em;}
+.goucheng ol li{font-size: 17px;}
+.goucheng2 ol{margin-top:-1em;}
+.goucheng2 ol li{font-size: 17px;text-indent: 2em;}
+.zhiwu ol {margin-top:-1em;}
+.zhiwu ol li{font-size: 17px;list-style: decimal;}
+.pic8{margin-top: -1em;text-align: center;margin-bottom: -1em;margin-left: 30px;}
+.jieshi2 ol li{margin-left: 30px;font-size: 17px;list-style:decimal;}
+.pic9{margin-top: -1em;text-align: center;margin-left: 30px;}
+.f7{font-size: 5px;margin-top:23px;}
+
+.sumfg1{margin-left: 20px;font-size: 23px;font-weight: bold;cursor:pointer;width: 5em;margin-top: -16px;}	
+.sumfg2{margin-left: 20px;font-size: 23px;font-weight: bold;cursor:pointer;width: 7em;}	
+.sumfg3{margin-left: 20px;font-size: 23px;font-weight: bold;cursor:pointer;width: 7em;}	
+.sumfg4{margin-left: 20px;font-size: 23px;font-weight: bold;cursor:pointer;width: 5em;margin-top: -16px;}
+.sumfg6{margin-left: 20px;font-size: 23px;font-weight: bold;cursor:pointer;width: 7em;}	
+.sumfg7{margin-left: 20px;font-size: 23px;font-weight: bold;cursor:pointer;width: 5em;margin-top: -16px;}	
+.sumfg8{margin-left: 20px;font-size: 23px;font-weight: bold;cursor:pointer;width: 7em;}	
+.sumfg9{margin-left: 20px;font-size: 23px;font-weight: bold;cursor:pointer;width: 7em;}	
+.sumfg11{margin-left: 20px;font-size: 23px;font-weight: bold;cursor:pointer;width: 7em;}		
+	.dd1{margin-top: -20px;margin-bottom: -17px;}
+	.dd2{margin-top: -20px;margin-bottom: -17px;}
+	.dd3{margin-top: -20px;}
+	.dd4{margin-top: -20px;margin-bottom: -17px;}
+	.dd6{margin-top: -20px;}
+	.dd7{margin-top: -20px;margin-bottom: -17px;}
+	.dd8{margin-top: -20px;margin-bottom: -17px;}
+	.dd9{margin-top: -20px;}
+	.dd11{margin-top: -20px;}
+	
+.grid-area4 {
+  display: grid;              
+  grid-template-rows: 810px;  
+  grid-template-columns: 250px 850px;  
+}
+
+.left-area4 {
+  grid-row: 1;
+  grid-column: 1;
+	height:810px;
+}
+
+.right-area4 {
+  grid-row: 1;
+  grid-column: 2;
+	height: 810px;
+}
+.grid-areaD{display: grid;               
+  grid-template-rows: 137.9px 632.4px;  
+  grid-template-columns:850px;  }	
+.shang-area3{grid-row: 1;
+  grid-column: 1;
+	height: 137.9px;
+	}
+.xia-area3{grid-row: 2;
+  grid-column: 1;
+	height: 632.4px;
+	overflow-y: scroll;
+	-ms-overflow-style: none;
+	scrollbar-width: none;}
+.xia-area3::-webkit-scrollbar {  
+  display: none; 
+}		
+/*content5结束*/
+/*back开始*/
+div.content5{background-color:antiquewhite;
+	        background-image: url("../img/c-back2.webp");
+	        background-size: cover;
+	        background-attachment: fixed;
+            background-position: center center;
+            border: 10px solid #81A0A9;}
+.content5 ul{background-color: aliceblue;
+            border: 10px solid #81A0A9;}
+/*back结束*/
+/*日本档案事业相关法规介绍结束*/
+
+/*参考资料开始*/
+/*content6开始*/
+.content6{margin:20px 30px;width: 1100px;height: 700px;}
+.mulud{width: 250px;}
+.content6 ul{height: 540px;width: 150px;margin-left: 20px;margin-top: 20px;}
+.content6 ul li{margin-top: 30px;margin-left: -8px;margin-right: 5px;list-style-type: disc}
+.content6 ul li a{font-size: 20px;color: #1B05FF;font-weight: bold;cursor:pointer;text-decoration: none;}
+.content6 ul li a:hover{color:#FC0004;text-decoration: underline;}
+.section3{width: 830px;height: 700px;}
+.content6 h1{text-align: center;font-size: 35px;margin-top: 40px;}
+.content6 h2{margin-left: 20px;}
+.g1{text-indent: 2em;margin-top: -1em;margin-bottom: -5px;}
+.content6 h2{margin-left: 20px;margin-bottom: -1em;font-size: 23px;}
+.fazhan ol li{margin-left: 30px;font-size: 20px;list-style:decimal;margin-bottom: 10px;}
+.fazhan ol li a{color: #1B05FF;cursor:pointer;text-decoration: none;}
+.fazhan ol li a:hover{color:#FC0004;text-decoration: underline;}
+
+.jieshao ol li{margin-left: 30px;font-size: 20px;list-style:decimal;margin-bottom: 10px;}
+.jieshao ol li a{color: #1B05FF;cursor:pointer;text-decoration: none;}
+.jieshao ol li a:hover{color:#FC0004;text-decoration: underline;}
+
+.anli ol li{margin-left: 30px;font-size: 20px;list-style:decimal;margin-bottom: 10px;}
+.anli ol li a{color: #1B05FF;cursor:pointer;text-decoration: none;}
+.anli ol li a:hover{color:#FC0004;text-decoration: underline;}
+
+.fagui ol li{margin-left: 30px;font-size: 20px;list-style:decimal;margin-bottom: 10px;}
+.fagui ol li a{color: #1B05FF;cursor:pointer;text-decoration: none;}
+.fagui ol li a:hover{color:#FC0004;text-decoration: underline;}
+
+.digital ol li{margin-left: 30px;font-size: 20px;list-style:decimal;margin-bottom: 10px;}
+.digital ol li a{color: #1B05FF;cursor:pointer;text-decoration: none;}
+.digital ol li a:hover{color:#FC0004;text-decoration: underline;}
+	
+.grid-area5 {
+  display: grid;              
+  grid-template-rows: 700px;  
+  grid-template-columns: 250px 850px;  
+}
+
+.left-area5 {
+  grid-row: 1;
+  grid-column: 1;
+	height:700px;
+}
+
+.right-area5 {
+  grid-row: 1;
+  grid-column: 2;
+	height: 700px;
+}
+.grid-areaE{display: grid;               
+  grid-template-rows: 113.8px 546.3px;  
+  grid-template-columns:850px;  }	
+.shang-area4{grid-row: 1;
+  grid-column: 1;
+	height: 113.8px;
+	}
+.xia-area4{grid-row: 2;
+  grid-column: 1;
+	height: 546.3px;
+	overflow-y: scroll;
+	-ms-overflow-style: none;
+	scrollbar-width: none;}
+.xia-area4::-webkit-scrollbar {  
+  display: none; 
+}	
+
+.sumcz1{margin-left: 20px;font-size: 23px;font-weight: bold;cursor:pointer;margin-top: 1em;width: 12em;}
+.sumcz3{margin-left: 20px;font-size: 23px;font-weight: bold;cursor:pointer;margin-top: 1em;width: 13em;}
+.sumcz4{margin-left: 20px;font-size: 23px;font-weight: bold;cursor:pointer;margin-top: 1em;width: 15em;}
+.sumcz5{margin-left: 20px;font-size: 23px;font-weight: bold;cursor:pointer;margin-top: 1em;width: 15em;}
+.sumcz6{margin-left: 20px;font-size: 23px;font-weight: bold;cursor:pointer;margin-top: 1em;width: 12em;}
+	.ee1{margin-top: -10px;}
+	.ee3{margin-top: -10px;}
+	.ee4{margin-top: -10px;}
+	.ee5{margin-top: -10px;}
+	.ee6{margin-top: -10px;}
+	
+/*content6结束*/
+/*back开始*/
+div.content6{background-color:antiquewhite;
+	        background-image: url("../img/c-back2.webp");
+	        background-size: cover;
+	        background-attachment: fixed;
+            background-position: center center;
+            border: 10px solid #81A0A9;}
+.content6 ul{background-color: aliceblue;
+            border: 10px solid #81A0A9;}
+/*back结束*/
+/*参考资料结束*/
+
+/*针对“数字化”的举措开始*/
+/*content7开始*/
+.content7{margin:20px 30px;width: 1100px;height: 700px;}
+.muluf{width: 250px;}
+.content7 ul{height: 640px;width: 150px;margin-left: 20px;margin-top: 20px;}
+.content7 ul li{margin-top: 13px;margin-left: -10px;margin-right: 5px;list-style: none;}
+.content7 ul li a{font-size: 20px;color: #1B05FF;font-weight: bold;cursor:pointer;text-decoration: none;}
+.content7 ul li a:hover{color:#FC0004;text-decoration: underline;}
+.section5{width: 830px;height: 700px;}
+.content7 h1{text-align: center;font-size: 35px;margin-top: 40px;}
+.content7 h2{margin-left: 20px;margin-top: 1em;}
+.i1{text-indent: 2em;margin-top: -1em;margin-bottom: -5px;}
+.i2{margin-left: 30px;text-indent: 2em;font-size: 17px;}
+	.i2 a{color: #1B05FF;cursor:pointer;text-decoration: none;}
+    .i2 a:hover{color:#FC0004;text-decoration: underline;}
+.i3{margin-left: 30px;text-indent: 2em;font-size: 17px;margin-top:-1em;}
+	.i3 a{color: #1B05FF;cursor:pointer;text-decoration: none;}
+    .i3 a:hover{color:#FC0004;text-decoration: underline;}
+.i4{margin-left: 30px;text-indent: 2em;font-size: 17px;margin-top:-1em;margin-bottom: -1em;}
+.jieshi5 ol li{margin-left: 30px;font-size: 17px;list-style:decimal;}	
+.digiarch1 ol li{margin-left: 30px;font-size: 17px;list-style:decimal;}
+.digiarch2 ol li{margin-left: 30px;font-size: 17px;list-style:decimal;}	
+.digiarch3 ol li{margin-left: 30px;font-size: 17px;list-style:decimal;}	
+.archivist1 ol li{margin-left: 30px;font-size: 17px;list-style:decimal;}
+	.archivist1 ol li a{color: #1B05FF;cursor:pointer;text-decoration: none;}
+    .archivist1 ol li a:hover{color:#FC0004;text-decoration: underline;}
+.archivist2 ol li{margin-left: 30px;font-size: 17px;list-style:decimal;}
+	.archivist2 ol li a{color: #1B05FF;cursor:pointer;text-decoration: none;}
+    .archivist2 ol li a:hover{color:#FC0004;text-decoration: underline;}
+.pic16{margin-top: -1em;text-align: center;margin-left: 30px;margin-bottom: -1em;}	
+.pic17{margin-top: -1em;text-align: center;margin-left: 30px;margin-bottom: -1em;}	
+.pic18{margin-top: -1em;text-align: center;margin-left: 30px;margin-bottom: -1em;}	
+	.spdigi4 a{color: #1B05FF;cursor:pointer;text-decoration: none;}
+    .spdigi4 a:hover{color:#FC0004;text-decoration: underline;}
+	
+	
+.spdigi1{margin-left: 20px;font-size: 23px;font-weight: bold;cursor:pointer;width: 21em;margin-top: -16px;}	
+.spdigi2{margin-left: 20px;font-size: 23px;font-weight: bold;cursor:pointer;width: 13em;}	
+.spdigi3{margin-left: 20px;font-size: 23px;font-weight: bold;cursor:pointer;width: 17em;}	
+.spdigi4{margin-left: 20px;font-size: 23px;font-weight: bold;cursor:pointer;width: 21em;margin-top: -16px;}	
+.spdigi5{margin-left: 20px;font-size: 23px;font-weight: bold;cursor:pointer;width: 9em;}	
+.spdigi6{margin-left: 20px;font-size: 23px;font-weight: bold;margin-top: 1em;cursor:pointer;width:7em;}	
+
+.ff1{margin-top: -20px;margin-bottom: -17px;}
+.ff2{margin-top: -20px;margin-bottom: -17px;}	
+.ff3{margin-top: -20px;}	
+.ff4{margin-top: -20px;margin-bottom: -17px;}	
+.ff5{margin-top: -20px;}	
+.ff6{margin-top: -20px;}	
+	
+.grid-area6 {
+  display: grid;
+  grid-template-rows: 700px;  
+  grid-template-columns: 250px 850px;  
+}
+
+.left-are6 {
+  grid-row: 1;
+  grid-column: 1;
+	height:700px;
+}
+
+.right-area6 {
+  grid-row: 1;
+  grid-column: 2;
+	height:700px;
+}
+.grid-areaF{display: grid;                
+  grid-template-rows: 113.9px 546.2px;  
+  grid-template-columns: 850px;  }
+.shang-area5{grid-row: 1;
+  grid-column: 1;
+	height: 113.9px;
+	}
+.xia-area5{grid-row: 2;
+  grid-column: 1;
+	overflow-y: scroll;
+	height: 546.2px;
+		-ms-overflow-style: none;
+	scrollbar-width: none;
+	}
+.xia-area5::-webkit-scrollbar {  
+  display: none; 
+}		
+/*content7结束*/
+/*back开始*/
+div.content7{background-color:antiquewhite;
+	        background-image: url("../img/c-back2.webp");
+	        background-size: cover;
+	        background-attachment: fixed;
+            background-position: center center;
+            border: 10px solid #81A0A9;}
+.content7 ul{background-color: aliceblue;
+            border: 10px solid #81A0A9;}
+/*back结束*/
+/*针对“数字化”的举措结束*/
+
+
+}
